@@ -8,7 +8,7 @@ This example is to show different parts of the git repository and git HUB. Teach
 
 ## Purpose
 
-Sample website with plenty of files for demos.
+Sample website with plenty of files for demos.Testing purpose
 
 ## How to contribute
 
